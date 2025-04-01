@@ -1,1 +1,1 @@
-# fungosem.github.io
+# https://buy-fungosem.vercel.app
