@@ -1,1 +1,1 @@
-# https://buy-fungosem.vercel.app
+# https://buy-fungosem.vercel.app/
