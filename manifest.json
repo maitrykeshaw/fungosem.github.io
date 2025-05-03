@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"FungoSem™ (Official) Get 72% Off + 03 Free Bonuses",
+  "short_name":"FungoSem™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"FungoSen supplement removes the fungal infections and eliminates all traces of invasive fungi from your body by activating your naturally occurring digestive enzymes.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
